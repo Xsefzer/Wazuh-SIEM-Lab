@@ -25,7 +25,7 @@ My name is Youssef. I study at Cégep de Saint-Hyacinthe (DEC in IT — networki
 
 > Hypervisor: VMware Workstation Pro 17. All machines are on the same isolated network.
 
-*(Network diagram: see `/screenshots`)*
+![Network diagram](screenshots/schema_reseau_wazuh.png)
 
 ### What I did
 **1. Wazuh deployment** — installed the indexer, manager and dashboard on Ubuntu with the official script.
@@ -55,7 +55,7 @@ My name is Youssef. I study at Cégep de Saint-Hyacinthe (DEC in IT — networki
 - Test the lab with network attacks from the Kali machine, in an isolated environment.
 
 ### Screenshots
-See the `/screenshots` folder. Full step-by-step documentation is in `/screenshots`.
+See the `/screenshots` folder. Full step-by-step documentation is in `/docs`.
 
 ---
 
@@ -77,6 +77,8 @@ Je m'appelle Youssef. J'étudie au Cégep de Saint-Hyacinthe (DEC en informatiqu
 | VM3 | Machine attaquante | Kali Linux |
 
 > Hyperviseur : VMware Workstation Pro 17. Toutes les machines sont sur le même réseau isolé.
+
+![Schéma réseau](screenshots/schema_reseau_wazuh.png)
 
 ### Ce que j'ai fait
 **1. Déploiement de Wazuh** — installation de l'indexer, du manager et du dashboard sur Ubuntu avec le script officiel.
