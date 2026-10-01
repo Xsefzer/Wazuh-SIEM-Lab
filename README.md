@@ -9,7 +9,7 @@ A home lab where I deployed the Wazuh SIEM, generated attacker-style activity on
 ## 🇬🇧 English
 
 ### About me
-My name is Youssef. I study at Cégep de Saint-Hyacinthe (DEC in IT — networking and cybersecurity) and I am aiming for a career in cybersecurity (SOC). I learn fast and I like to really understand how things work, so I built this lab on my own to practice outside of class.
+My name is Youssef. I study at Cégep de Saint-Hyacinthe (DEC in IT / networking and cybersecurity) and I am aiming for a career in cybersecurity (SOC). I learn fast and I like to really understand how things work, so I built this lab on my own to practice outside of class.
 
 ### Goal of the project
 - Deploy a SIEM (Wazuh) to collect and analyze the security logs of a Windows machine.
@@ -62,7 +62,7 @@ See the `/screenshots` folder. Full step-by-step documentation is in `/docs`.
 ## 🇫🇷 Français
 
 ### À propos de moi
-Je m'appelle Youssef. J'étudie au Cégep de Saint-Hyacinthe (DEC en informatique — réseaux et cybersécurité) et je vise une carrière en cybersécurité (SOC). J'apprends vite et j'aime vraiment comprendre comment les choses fonctionnent, alors j'ai monté ce laboratoire par moi-même pour pratiquer en dehors des cours.
+Je m'appelle Youssef. J'étudie au Cégep de Saint-Hyacinthe (DEC en informatique / réseaux et cybersécurité) et je vise une carrière en cybersécurité (SOC). J'apprends vite et j'aime vraiment comprendre comment les choses fonctionnent, alors j'ai monté ce laboratoire par moi-même pour pratiquer en dehors des cours.
 
 ### Objectif du projet
 - Déployer un SIEM (Wazuh) pour collecter et analyser les journaux de sécurité d'un poste Windows.
