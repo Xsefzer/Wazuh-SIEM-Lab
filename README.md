@@ -25,7 +25,7 @@ My name is Youssef. I study at Cégep de Saint-Hyacinthe (DEC in IT — networki
 
 > Hypervisor: VMware Workstation Pro 17. All machines are on the same isolated network.
 
-*(Network diagram: see `/docs`)*
+*(Network diagram: see `/screenshots`)*
 
 ### What I did
 **1. Wazuh deployment** — installed the indexer, manager and dashboard on Ubuntu with the official script.
@@ -55,7 +55,7 @@ My name is Youssef. I study at Cégep de Saint-Hyacinthe (DEC in IT — networki
 - Test the lab with network attacks from the Kali machine, in an isolated environment.
 
 ### Screenshots
-See the `/screenshots` folder. Full step-by-step documentation is in `/docs`.
+See the `/screenshots` folder. Full step-by-step documentation is in `/screenshots`.
 
 ---
 
